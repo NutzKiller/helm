@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gym-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-03T12:48:21.127685363Z"
+    description: A Helm chart for Kubernetes
+    digest: 3826de59e7217d80741d0ff29635508fbfdce9ffef43aedfa97f6257c306dde5
+    name: gym-chart
+    type: application
+    urls:
+    - https://NutzKiller.github.io/helm/gym-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-03T12:48:21.127300143Z"
