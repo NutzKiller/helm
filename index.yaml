@@ -3,9 +3,9 @@ entries:
   gym-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-05T12:37:33.735705037Z"
+    created: "2025-02-05T13:37:40.209414552Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
-    digest: 465acb48288c12ff7a180ec835664ad5fdf96b52baf573af3d161736575a0413
+    digest: 4bc2edac9235c0a86e85d466df938af34d4be68c71eed84fa23b12f878dea7f3
     name: gym-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-05T12:37:33.735468704Z"
+    created: "2025-02-05T13:37:40.208917176Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 2d0c56fd7f2657958d2163c21675fd5cd7ad8fa20139ef19fc155bdc23a01610
     name: gym-chart
@@ -23,7 +23,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: latest
-    created: "2025-02-05T12:37:33.735231669Z"
+    created: "2025-02-05T13:37:40.208389013Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 0c255b56ce5f586c21cb48df675bd45406355613e53d3e4279cbf0efbf813fe7
     name: gym-chart
@@ -33,7 +33,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-05T12:37:33.734924945Z"
+    created: "2025-02-05T13:37:40.207798013Z"
     description: A Helm chart for Kubernetes
     digest: 3826de59e7217d80741d0ff29635508fbfdce9ffef43aedfa97f6257c306dde5
     name: gym-chart
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://NutzKiller.github.io/helm/gym-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-05T12:37:33.734025398Z"
+generated: "2025-02-05T13:37:40.206700911Z"
