@@ -3,7 +3,17 @@ entries:
   gym-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.059938209Z"
+    created: "2025-02-09T09:54:22.916533073Z"
+    description: A Helm chart for deploying the Gym Workout Plan Generator
+    digest: 713afea026de3edc54682c25fea126759c1257a0a1f465306084d06927fd2f79
+    name: gym-chart
+    type: application
+    urls:
+    - https://NutzKiller.github.io/helm/gym-chart-1.0.69.tgz
+    version: 1.0.69
+  - apiVersion: v2
+    appVersion: '{{ .Chart.Version }}'
+    created: "2025-02-09T09:54:22.915557633Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 8ed2678d1d70af8759874d9909e92d76aa50f93e044971af795bdc9853fc0d15
     name: gym-chart
@@ -13,7 +23,7 @@ entries:
     version: 1.0.68
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.059111775Z"
+    created: "2025-02-09T09:54:22.915295731Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 37e595a339199d7639b12b17548089125808015df1f7951671e3a0543370b326
     name: gym-chart
@@ -23,7 +33,7 @@ entries:
     version: 1.0.67
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.058881034Z"
+    created: "2025-02-09T09:54:22.915084905Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 8988ae4296877d4dcb950a7f91ef6432d8ba845abeeb3d81f312513a7527ca53
     name: gym-chart
@@ -33,7 +43,7 @@ entries:
     version: 1.0.66
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.05866513Z"
+    created: "2025-02-09T09:54:22.914876304Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 9499031257a3908a093ff98711609c1b4d658bcb3ad3afb68d5ea80fad62ebfa
     name: gym-chart
@@ -43,7 +53,7 @@ entries:
     version: 1.0.65
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.058277055Z"
+    created: "2025-02-09T09:54:22.914669696Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: a6d1b69a6f5176bbd2549288a37e3ba4b5e53d10c78a020b96cd9f169ead034f
     name: gym-chart
@@ -53,7 +63,7 @@ entries:
     version: 1.0.64
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.058051504Z"
+    created: "2025-02-09T09:54:22.914443562Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e7ac3d73b02f11b9e85b8155713ddf4138a9357a6b65f074948967b89c9c8c72
     name: gym-chart
@@ -63,7 +73,7 @@ entries:
     version: 1.0.63
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.057844457Z"
+    created: "2025-02-09T09:54:22.914240952Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 46a6a24ee0e2e41cf80c12e76fd21991b9c2196a84bc40b0e793a4def2b25b3c
     name: gym-chart
@@ -73,7 +83,7 @@ entries:
     version: 1.0.61
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.057621691Z"
+    created: "2025-02-09T09:54:22.91403218Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: bc8aafd94072c0ec76021fd7a159cdb55d8f768df032b32ebc553ad0de19ff77
     name: gym-chart
@@ -83,7 +93,7 @@ entries:
     version: 1.0.60
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.057200324Z"
+    created: "2025-02-09T09:54:22.913582246Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: c4d1062e08540335c7a011e294c9e01da48d6faea7bb7f6b0a6fa564110c69e6
     name: gym-chart
@@ -93,7 +103,7 @@ entries:
     version: 1.0.59
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.056975664Z"
+    created: "2025-02-09T09:54:22.913315986Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: f9278873b1675729e6b9b1a4922a1cfc4e6bdf40bc8e7bc80852c986dbad3cb9
     name: gym-chart
@@ -103,7 +113,7 @@ entries:
     version: 1.0.58
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.056753879Z"
+    created: "2025-02-09T09:54:22.913100171Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: ef273d301edc146744311ec627eee2d45289bfb964d89b12458a9eb8791fa3dc
     name: gym-chart
@@ -113,7 +123,7 @@ entries:
     version: 1.0.57
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.056547023Z"
+    created: "2025-02-09T09:54:22.91288682Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: ee148e530b573974805be2f53bd78dfb9f59539a55f3b0496c0ef6604d5f763c
     name: gym-chart
@@ -123,7 +133,7 @@ entries:
     version: 1.0.56
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.056341048Z"
+    created: "2025-02-09T09:54:22.912682557Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: caaed9eb61dbfa966ae7f6ed91d0aef7caafb29f24cbc5f99dc3d7da3fac4e9b
     name: gym-chart
@@ -133,7 +143,7 @@ entries:
     version: 1.0.55
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.056129302Z"
+    created: "2025-02-09T09:54:22.912442827Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 2c0290d1e3ee9a03927f8fbd2d1035b7218af84fb006fd21d50ebd5da37c1963
     name: gym-chart
@@ -143,7 +153,7 @@ entries:
     version: 1.0.54
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.055890897Z"
+    created: "2025-02-09T09:54:22.912238484Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 7b709dba7a7cf9ec2c49b9bd621715e643ce591d5bfd9455ad07cd0c490bcc47
     name: gym-chart
@@ -153,7 +163,7 @@ entries:
     version: 1.0.53
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.055680874Z"
+    created: "2025-02-09T09:54:22.912031425Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: a5dacf570225f3022d59420d13b96946bbd88747a1c0e5af408300d74267c34a
     name: gym-chart
@@ -163,7 +173,7 @@ entries:
     version: 1.0.52
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.055456956Z"
+    created: "2025-02-09T09:54:22.911809899Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: d3b441e1bf2bda7efe442c7afcc31ffe4c0ccab48214d1a7e16fbb4abfb8a052
     name: gym-chart
@@ -173,7 +183,7 @@ entries:
     version: 1.0.51
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.055214794Z"
+    created: "2025-02-09T09:54:22.911601508Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: b4503a8d77aa68292c2c6c0afcd656e4950a2b918f3153282cd0324113321569
     name: gym-chart
@@ -183,7 +193,7 @@ entries:
     version: 1.0.50
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.054680335Z"
+    created: "2025-02-09T09:54:22.911161993Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 319f60d1ce5acb8ea3b89d2ea86191d17f7c1f5d60f5d940883c94be0cf79a4e
     name: gym-chart
@@ -193,7 +203,7 @@ entries:
     version: 1.0.48
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.054450475Z"
+    created: "2025-02-09T09:54:22.910952671Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 2edc472adb97ecb2ba8a3fa62c254588d9fcdd93186520daa1c00d64b0717229
     name: gym-chart
@@ -203,7 +213,7 @@ entries:
     version: 1.0.47
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.05422266Z"
+    created: "2025-02-09T09:54:22.910734441Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: c0e151cc46255d1916a17a331ffd843b6755c29af51058821b97b40002ed465c
     name: gym-chart
@@ -213,7 +223,7 @@ entries:
     version: 1.0.46
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.053989434Z"
+    created: "2025-02-09T09:54:22.910510701Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 0bae8b67ed1342d31467e20a282ddd79c84928b42348dc0389102387723aa10e
     name: gym-chart
@@ -223,7 +233,7 @@ entries:
     version: 1.0.45
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.053755757Z"
+    created: "2025-02-09T09:54:22.910270951Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 879ac0d9de9201db67d8d37af6bcc50e86c421d14586b16149f88c4ff77dae05
     name: gym-chart
@@ -233,7 +243,7 @@ entries:
     version: 1.0.44
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.053540365Z"
+    created: "2025-02-09T09:54:22.910054275Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 3d26c3f7e2212ecebfb8551183ba48fdbf9fc2e4da7f5371075257b139c7e1ae
     name: gym-chart
@@ -243,7 +253,7 @@ entries:
     version: 1.0.43
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.053308752Z"
+    created: "2025-02-09T09:54:22.909837157Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 059e09191ff4d8c103da70c2e50759ca088eaa4b03f8e1f033cbc712e7503586
     name: gym-chart
@@ -253,7 +263,7 @@ entries:
     version: 1.0.42
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.053041292Z"
+    created: "2025-02-09T09:54:22.909586787Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: a105f054c78c180e4a13421b252925504b07510793509618fcbe47cf8c4327dc
     name: gym-chart
@@ -263,7 +273,7 @@ entries:
     version: 1.0.41
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.052809179Z"
+    created: "2025-02-09T09:54:22.909053326Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: c644b7d6d1e483a5a46493da428a93cb0c0ac26fa72b310f6efb638f205a8d1c
     name: gym-chart
@@ -273,7 +283,7 @@ entries:
     version: 1.0.40
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.051841831Z"
+    created: "2025-02-09T09:54:22.90806946Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 9437c424cd5067e1f58511cbe1fecec55067c68eff38e2aaad14d795c54a3abb
     name: gym-chart
@@ -283,7 +293,7 @@ entries:
     version: 1.0.37
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.05136493Z"
+    created: "2025-02-09T09:54:22.907551007Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: c7ab63fd84723fd703d7fa981ffe1c1ac78625223a95864e84128c6c306c9518
     name: gym-chart
@@ -293,7 +303,7 @@ entries:
     version: 1.0.36
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.050860497Z"
+    created: "2025-02-09T09:54:22.907049115Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 3520a78c7201fa0ea7d561aa4b42b8662e56bccfe7b0c5429abb852c99738ae7
     name: gym-chart
@@ -303,7 +313,7 @@ entries:
     version: 1.0.35
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.050370632Z"
+    created: "2025-02-09T09:54:22.90650271Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 06daeaaab9fd0c87d42359bd0ecabae3ef27c68d17d0a3168754f2f6d743bfa5
     name: gym-chart
@@ -313,7 +323,7 @@ entries:
     version: 1.0.34
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.049853897Z"
+    created: "2025-02-09T09:54:22.906067924Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 8ec101525622524cb62e6e3e4cee8ec1b5c33fb4865be770b4995e54ce02224b
     name: gym-chart
@@ -323,7 +333,7 @@ entries:
     version: 1.0.33
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.049191469Z"
+    created: "2025-02-09T09:54:22.905850796Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 43b1f6cad617a158106ff6d80c93d01a7afc15cab3303769df913647fd8a7503
     name: gym-chart
@@ -333,7 +343,7 @@ entries:
     version: 1.0.32
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.048960757Z"
+    created: "2025-02-09T09:54:22.905638979Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: a97113c0e31df9b570954b674fb9ae9ba8dc4f8f7ccb7abf1db961d45b67da29
     name: gym-chart
@@ -343,7 +353,7 @@ entries:
     version: 1.0.31
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.048754663Z"
+    created: "2025-02-09T09:54:22.905411292Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 3b74a5d22897777cd817c08ce233a9bd8b74c37f0f99795be2b7a6b6cfe02e7a
     name: gym-chart
@@ -353,7 +363,7 @@ entries:
     version: 1.0.30
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.048542145Z"
+    created: "2025-02-09T09:54:22.905191239Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: f8d2f9bed4ca7985487923cdfdbca69dc25a39669ecf795237a03a89b7b00bdd
     name: gym-chart
@@ -363,7 +373,7 @@ entries:
     version: 1.0.29
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.048328536Z"
+    created: "2025-02-09T09:54:22.904976506Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e966b1145db403beca1ddeca96f112b0cbbbe03cc31bfe2f31bfa70df8fcc85c
     name: gym-chart
@@ -373,7 +383,7 @@ entries:
     version: 1.0.28
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.048100961Z"
+    created: "2025-02-09T09:54:22.904749089Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: feaef70fba990f1bc01ab20fa55cc5a81b62cea573241e9625aa6439b3eba102
     name: gym-chart
@@ -383,7 +393,7 @@ entries:
     version: 1.0.24
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.047851274Z"
+    created: "2025-02-09T09:54:22.90452571Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 457eb517887d36f1f934a0b83c25020046c67ff2a0fb032e396d3d2d11aa84ab
     name: gym-chart
@@ -393,7 +403,7 @@ entries:
     version: 1.0.23
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.047634279Z"
+    created: "2025-02-09T09:54:22.90429688Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 3c16be9c60e334a2d0bb69e3a2fa638923a5f5924ea2f958461235989aaf83bc
     name: gym-chart
@@ -403,7 +413,7 @@ entries:
     version: 1.0.22
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.047396825Z"
+    created: "2025-02-09T09:54:22.904090242Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: becb159084e70553dfda87c657b055042b7d5a1e20898aa5469f6d08e0970107
     name: gym-chart
@@ -413,7 +423,7 @@ entries:
     version: 1.0.21
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.046950161Z"
+    created: "2025-02-09T09:54:22.903871181Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: c19c3cb7b1c0c85b407e798f4c75e3d8d6227027b6d0594285d1f7abd8a5dfc4
     name: gym-chart
@@ -423,7 +433,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.046527922Z"
+    created: "2025-02-09T09:54:22.903389467Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 1c5a1b1f4ff62ea2eb9f8a57f21be4d877b874e58b6e277ac580b3fa8487bf91
     name: gym-chart
@@ -433,7 +443,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.046316006Z"
+    created: "2025-02-09T09:54:22.903106306Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 83136b551005d17fa7991accadf1fba3c7d5afa49d986ee0cb80c2ed423c7f71
     name: gym-chart
@@ -443,7 +453,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.04608823Z"
+    created: "2025-02-09T09:54:22.902828825Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 71d63bb80c1a74a56de10527ffae8d9945ba3017e6df5721a2e7fab17badefe4
     name: gym-chart
@@ -453,7 +463,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.04584707Z"
+    created: "2025-02-09T09:54:22.902573616Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 3ef90c347d8bdd3b823147b7e2493068045dccc0378f3c92c0fa9be9cdd7c84f
     name: gym-chart
@@ -463,7 +473,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.045631517Z"
+    created: "2025-02-09T09:54:22.902308148Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: b18a5e5bf7dce4fc60cb7296ca6375dafdf2a56c666ad2464f47df02fb3cb024
     name: gym-chart
@@ -473,7 +483,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.045401266Z"
+    created: "2025-02-09T09:54:22.90209083Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e3c3ad8a1d7f223a82ed921b30996ba3f4ee8a1abcc2b2d212cee3b5f8eec857
     name: gym-chart
@@ -483,7 +493,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.045129088Z"
+    created: "2025-02-09T09:54:22.901859166Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: ee7329002b80551ca35f6032a575acf78d0b31a439bff5c0ec4157076ffe0816
     name: gym-chart
@@ -493,7 +503,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.044770678Z"
+    created: "2025-02-09T09:54:22.901619977Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 7f587f49afd09ceff5edcb30a35b27fe43fb2884cc1b3f6e7b1cedd0ffad65fe
     name: gym-chart
@@ -503,7 +513,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.061402576Z"
+    created: "2025-02-09T09:54:22.918735527Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 6d043fecee3d36393fdd22ae1bf26b177acf870a08a5fef3bfb48064d047ee64
     name: gym-chart
@@ -513,7 +523,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.060910416Z"
+    created: "2025-02-09T09:54:22.918351597Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: fea6800bbebeecd630bbbbaf180a7cac99a813e961bb996b6fbb6019c470d9fa
     name: gym-chart
@@ -523,7 +533,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.060442121Z"
+    created: "2025-02-09T09:54:22.917169307Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e818793efcaa751544784a2bba1a978166cb95ba017df7f706d45b2b2ad96459
     name: gym-chart
@@ -533,7 +543,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.057405978Z"
+    created: "2025-02-09T09:54:22.913807558Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 2fa3ba2a74d30603349f23d7f5567502c5f006e919aecdbdb9324e39093c0edb
     name: gym-chart
@@ -543,7 +553,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.05490779Z"
+    created: "2025-02-09T09:54:22.911371587Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 9fe08b0b0b42f5497da27b275a5359b1c48cec1e1169ae6fcd53bced4bdf83cb
     name: gym-chart
@@ -553,7 +563,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.052329252Z"
+    created: "2025-02-09T09:54:22.908562806Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: ada901bf430a36f4913deb4f91d76f8d577e8b631f922c479efe6004c4e79fcb
     name: gym-chart
@@ -563,7 +573,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.046737523Z"
+    created: "2025-02-09T09:54:22.903647902Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 4bc2edac9235c0a86e85d466df938af34d4be68c71eed84fa23b12f878dea7f3
     name: gym-chart
@@ -573,7 +583,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-02-09T09:45:58.044502146Z"
+    created: "2025-02-09T09:54:22.901343147Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 2d0c56fd7f2657958d2163c21675fd5cd7ad8fa20139ef19fc155bdc23a01610
     name: gym-chart
@@ -583,7 +593,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: latest
-    created: "2025-02-09T09:45:58.044223105Z"
+    created: "2025-02-09T09:54:22.901096895Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 0c255b56ce5f586c21cb48df675bd45406355613e53d3e4279cbf0efbf813fe7
     name: gym-chart
@@ -593,7 +603,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-09T09:45:58.043929577Z"
+    created: "2025-02-09T09:54:22.900747239Z"
     description: A Helm chart for Kubernetes
     digest: 3826de59e7217d80741d0ff29635508fbfdce9ffef43aedfa97f6257c306dde5
     name: gym-chart
@@ -601,4 +611,4 @@ entries:
     urls:
     - https://NutzKiller.github.io/helm/gym-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-09T09:45:58.043542664Z"
+generated: "2025-02-09T09:54:22.899326433Z"
