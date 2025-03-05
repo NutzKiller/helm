@@ -3,32 +3,42 @@ entries:
   gym-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-05T08:39:22.306974271Z"
+    created: "2025-03-05T09:10:46.769487845Z"
+    description: A Helm chart for deploying the Gym Workout Plan Generator
+    digest: 96ded1c390ee90e27043847e105caf65e098e515cf6727287ae3480e72a58eac
+    name: gym-chart
+    type: application
+    urls:
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.63.tgz
+    version: 1.5.63
+  - apiVersion: v2
+    appVersion: '{{ .Chart.Version }}'
+    created: "2025-03-05T09:10:46.769288101Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 51fbb7bc6dde082d367d103d78e6b276e063abcea0d2020eb388ae12bc61b9cd
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.62.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.62.tgz
     version: 1.5.62
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-05T08:39:22.306763708Z"
+    created: "2025-03-05T09:10:46.769054011Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e96bb529c6c456aa1d5431c91eaeaee5925faa912691b49afcf1d2dbb611cb74
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.61.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.61.tgz
     version: 1.5.61
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-05T08:39:22.306554126Z"
+    created: "2025-03-05T09:10:46.768782241Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: efa9e69d66bdf3e33ee66aae207648f05d5848beef6378ef04086bd9933ca0aa
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.60.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.60.tgz
     version: 1.5.60
-generated: "2025-03-05T08:39:22.306183765Z"
+generated: "2025-03-05T09:10:46.768424139Z"
