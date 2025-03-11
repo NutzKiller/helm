@@ -3,32 +3,42 @@ entries:
   gym-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-09T20:14:13.964963526Z"
+    created: "2025-03-11T08:10:47.263727899Z"
+    description: A Helm chart for deploying the Gym Workout Plan Generator
+    digest: 9fa0c742f8e678319dcc34a5808c2b2b622aa836e340e5a60e7abb1385191d6e
+    name: gym-chart
+    type: application
+    urls:
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.73.tgz
+    version: 1.5.73
+  - apiVersion: v2
+    appVersion: '{{ .Chart.Version }}'
+    created: "2025-03-11T08:10:47.263480938Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 62e0972d48e2eaa1cc7652143d51c27c16acf285555a24efb626dcdf5e198be2
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.72.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.72.tgz
     version: 1.5.72
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-09T20:14:13.964738444Z"
+    created: "2025-03-11T08:10:47.263250638Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 05aa86b46f2c6182518587212e4806cc3418c9c9ac3bfc421fb1efad2352d38c
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.71.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.71.tgz
     version: 1.5.71
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-09T20:14:13.964504906Z"
+    created: "2025-03-11T08:10:47.263013956Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 7fb746c081e4a7dd72e519c9fb4cba341e2ac1f0e236518e70ed9ffe51076582
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.70.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.70.tgz
     version: 1.5.70
-generated: "2025-03-09T20:14:13.96407003Z"
+generated: "2025-03-11T08:10:47.262656978Z"
