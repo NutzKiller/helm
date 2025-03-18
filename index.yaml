@@ -3,42 +3,32 @@ entries:
   gym-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-17T16:10:00.785053405Z"
+    created: "2025-03-18T07:47:34.508426765Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: f9bdde157756e80e067c46b8514c2c42a3bf82976f12bd8cda0add45799fb780
     name: gym-chart
     type: application
     urls:
-    - https://NutzKiller.github.io/helm/gym-chart-1.6.21.tgz
+    - https://nutzkiller.github.io/helm/gym-chart-1.6.21.tgz
     version: 1.6.21
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-17T16:10:00.784800482Z"
+    created: "2025-03-18T07:47:34.50819839Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 2853ee4dca235782e8bae59d77fef76be6a6e472f6abed5c32b6f6e510404557
     name: gym-chart
     type: application
     urls:
-    - https://NutzKiller.github.io/helm/gym-chart-1.6.10.tgz
+    - https://nutzkiller.github.io/helm/gym-chart-1.6.10.tgz
     version: 1.6.10
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-17T16:10:00.785277465Z"
-    description: A Helm chart for deploying the Gym Workout Plan Generator
-    digest: f96d2691e24e53cd4794908ee35300dde96d7477c6e8781279523444ec9012f4
-    name: gym-chart
-    type: application
-    urls:
-    - https://NutzKiller.github.io/helm/gym-chart-1.6.9.tgz
-    version: 1.6.9
-  - apiVersion: v2
-    appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-17T16:10:00.784547327Z"
+    created: "2025-03-18T07:47:34.507964434Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e9b5f06fd89f359f1d58b3827db348613f8b958b3a51bf8080e89bf9eb174fa1
     name: gym-chart
     type: application
     urls:
-    - https://NutzKiller.github.io/helm/gym-chart-1.5.72.tgz
+    - https://nutzkiller.github.io/helm/gym-chart-1.5.72.tgz
     version: 1.5.72
-generated: "2025-03-17T16:10:00.784182394Z"
+generated: "2025-03-18T07:47:34.507588594Z"
