@@ -3,32 +3,42 @@ entries:
   gym-chart:
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-18T08:11:57.953956928Z"
+    created: "2025-03-18T10:00:27.66807525Z"
+    description: A Helm chart for deploying the Gym Workout Plan Generator
+    digest: 3abd2618ef02d46bda1aa3560d474f02c9775bdfa62bcaf1359d9f8feee4ee25
+    name: gym-chart
+    type: application
+    urls:
+    - https://NutzKiller.github.io/helm/gym-chart-1.6.24.tgz
+    version: 1.6.24
+  - apiVersion: v2
+    appVersion: '{{ .Chart.Version }}'
+    created: "2025-03-18T10:00:27.667825791Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: 43bb6d92dfb4f596b96c0a4b6da101a108589451e91c3045d959957d1444595e
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.6.23.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.6.23.tgz
     version: 1.6.23
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-18T08:11:57.953719303Z"
+    created: "2025-03-18T10:00:27.667613562Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: f9bdde157756e80e067c46b8514c2c42a3bf82976f12bd8cda0add45799fb780
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.6.21.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.6.21.tgz
     version: 1.6.21
   - apiVersion: v2
     appVersion: '{{ .Chart.Version }}'
-    created: "2025-03-18T08:11:57.953498329Z"
+    created: "2025-03-18T10:00:27.667379723Z"
     description: A Helm chart for deploying the Gym Workout Plan Generator
     digest: e9b5f06fd89f359f1d58b3827db348613f8b958b3a51bf8080e89bf9eb174fa1
     name: gym-chart
     type: application
     urls:
-    - https://nutzkiller.github.io/helm/gym-chart-1.5.72.tgz
+    - https://NutzKiller.github.io/helm/gym-chart-1.5.72.tgz
     version: 1.5.72
-generated: "2025-03-18T08:11:57.953106264Z"
+generated: "2025-03-18T10:00:27.667013133Z"
